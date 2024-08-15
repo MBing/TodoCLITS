@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "10a12634-ba1e-4722-a50d-c7c867645ede",
+      "task": "Learn Node",
+      "isCompleted": false
+    },
+    {
+      "id": "0dbfd2e4-a033-4f3c-93f2-a25d70ffe0c3",
+      "task": "Learn Angular",
+      "isCompleted": false
+    }
+  ]
+}
